@@ -48,7 +48,6 @@ If you want to save the visualizations instead of just showing them interactivel
 
 ## Example Results 
 
-```markdown
 ![SIFT matches between template and first target](results/Figure_1.png)
 
 ![RANSAC inliers and transformed template boundary](results/Figure_2.png)
@@ -58,7 +57,6 @@ If you want to save the visualizations instead of just showing them interactivel
 ![Error curve over iterations of inverse compositional alignment](results/Figure_4.png)
 
 ![Tracking template across multiple frames](results/Figure_5.png)
-```
 
 ## Implementation Notes
 
